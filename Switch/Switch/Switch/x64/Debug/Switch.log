@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\C++\Switch\Switch\Source.cpp(7,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Switch.vcxproj -> D:\C++\Switch\Switch\x64\Debug\Switch.exe

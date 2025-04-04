@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\Switch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C77D97C-0E59-4FEC-97DA-54C278911951}|Switch\\Switch.vcxproj|D:\\C\u002B\u002B\\Switch\\Switch\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C77D97C-0E59-4FEC-97DA-54C278911951}|Switch\\Switch.vcxproj|solutionrelative:Switch\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\Switch\\Switch\\Source.cpp",
+              "RelativeDocumentMoniker": "Switch\\Source.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\Switch\\Switch\\Source.cpp",
+              "RelativeToolTip": "Switch\\Source.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAADcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T12:12:06.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

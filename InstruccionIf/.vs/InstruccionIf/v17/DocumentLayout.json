@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\InstruccionIf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAB06A1-4999-4151-9653-54B9C187A4E8}|InstruccionIf\\InstruccionIf.vcxproj|D:\\C\u002B\u002B\\InstruccionIf\\InstruccionIf\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABAB06A1-4999-4151-9653-54B9C187A4E8}|InstruccionIf\\InstruccionIf.vcxproj|solutionrelative:InstruccionIf\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\InstruccionIf\\InstruccionIf\\Source.cpp",
+              "RelativeDocumentMoniker": "InstruccionIf\\Source.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\InstruccionIf\\InstruccionIf\\Source.cpp",
+              "RelativeToolTip": "InstruccionIf\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T08:55:09.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

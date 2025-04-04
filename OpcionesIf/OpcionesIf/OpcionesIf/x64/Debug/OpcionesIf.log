@@ -1,0 +1,13 @@
+﻿  Source.cpp
+D:\C++\OpcionesIf\OpcionesIf\Source.cpp(7,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\C++\OpcionesIf\OpcionesIf\Source.cpp(21,22): warning C4806: '|': operación no segura: ningún valor del tipo 'bool' promovido al tipo 'char' puede igualar la constante proporcionada
+D:\C++\OpcionesIf\OpcionesIf\Source.cpp(21,20): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+D:\C++\OpcionesIf\OpcionesIf\Source.cpp(28,27): warning C4806: '|': operación no segura: ningún valor del tipo 'bool' promovido al tipo 'char' puede igualar la constante proporcionada
+D:\C++\OpcionesIf\OpcionesIf\Source.cpp(28,25): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+D:\C++\OpcionesIf\OpcionesIf\Source.cpp(35,27): warning C4806: '|': operación no segura: ningún valor del tipo 'bool' promovido al tipo 'char' puede igualar la constante proporcionada
+D:\C++\OpcionesIf\OpcionesIf\Source.cpp(35,25): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+D:\C++\OpcionesIf\OpcionesIf\Source.cpp(40,27): warning C4806: '|': operación no segura: ningún valor del tipo 'bool' promovido al tipo 'char' puede igualar la constante proporcionada
+D:\C++\OpcionesIf\OpcionesIf\Source.cpp(40,25): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+D:\C++\OpcionesIf\OpcionesIf\Source.cpp(45,27): warning C4806: '|': operación no segura: ningún valor del tipo 'bool' promovido al tipo 'char' puede igualar la constante proporcionada
+D:\C++\OpcionesIf\OpcionesIf\Source.cpp(45,25): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+  OpcionesIf.vcxproj -> D:\C++\OpcionesIf\OpcionesIf\x64\Debug\OpcionesIf.exe

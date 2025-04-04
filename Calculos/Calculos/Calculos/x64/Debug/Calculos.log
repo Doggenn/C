@@ -1,0 +1,2 @@
+﻿Source1.obj : error LNK2005: ya se definió main en Source.obj
+D:\C++\Calculos\Calculos\x64\Debug\Calculos.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente

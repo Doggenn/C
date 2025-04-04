@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\C++\CondicionDoWhile\CondicionDoWhile\Source.cpp(7,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  CondicionDoWhile.vcxproj -> D:\C++\CondicionDoWhile\CondicionDoWhile\x64\Debug\CondicionDoWhile.exe

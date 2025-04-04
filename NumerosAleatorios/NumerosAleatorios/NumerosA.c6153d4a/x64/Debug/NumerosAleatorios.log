@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\C++\NumerosAleatorios\NumerosAleatorios\Source.cpp(52,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  NumerosAleatorios.vcxproj -> D:\C++\NumerosAleatorios\NumerosAleatorios\x64\Debug\NumerosAleatorios.exe

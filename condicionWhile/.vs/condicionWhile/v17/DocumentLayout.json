@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\condicionWhile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3B20A5-4D33-4342-AAEB-C7A67B0127C1}|condicionWhile\\condicionWhile.vcxproj|D:\\C\u002B\u002B\\condicionWhile\\condicionWhile\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA3B20A5-4D33-4342-AAEB-C7A67B0127C1}|condicionWhile\\condicionWhile.vcxproj|solutionrelative:condicionWhile\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\condicionWhile\\condicionWhile\\Source.cpp",
+              "RelativeDocumentMoniker": "condicionWhile\\Source.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\condicionWhile\\condicionWhile\\Source.cpp",
+              "RelativeToolTip": "condicionWhile\\Source.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T11:50:25.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
